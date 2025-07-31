@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hello, I'm Khalil Ahmed
 
-<!--
-**khalile-codes/khalile-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Software Engineer & Computer Science Student from Pakistan 🇵🇰  
+💻 Skilled in C++ and Python 
+🔐 Currently learning Cybersecurity and App Development  
+🌱 Passionate about building projects and exploring tech
 
-Here are some ideas to get you started:
+🔧 Tech Stack
+- Programming: C++, Python
+- Tools: GitHub, VS Code
+- Interests: Cybersecurity, Networking, Web Security, App development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 Goals
+- Build real-world projects
+- Apply for scholarships or remote jobs
+- Become a full-stack developer and ethical hacker
+
+📫 Contact Me
+- Email: danishahmedkangyoq@gmail.com
+Update README
